@@ -1,2 +1,3 @@
-# dirija_bh
- Site para empresa Dirija BH
+# Dirija BH
+
+- Lading page desenvolvida utilizando HTML, CSS e JavaScript.
