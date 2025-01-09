@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://dirijabh.com.br" target="_blank" rel="noopener noreferrer">Acesse o site aqui</a>
+  🌐 <a href="https://dirijabh.com.br" target="blank" rel="noopener noreferrer">Acesse o site aqui</a>
 </p>
 
 ---
