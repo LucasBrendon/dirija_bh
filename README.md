@@ -71,10 +71,6 @@
 
 ---
 
-<h3 align="center">🌟 Agradecimentos</h3>
-<p align="center">
-  Agradeço a todos que contribuíram direta ou indiretamente para a realização deste projeto e à comunidade open source por compartilhar conhecimento e boas práticas.
-</p>
 <p align="center">
   Se você gostou deste projeto, não se esqueça de deixar uma ⭐️ no repositório!
 </p>
